@@ -11,8 +11,8 @@
 </div>
 
 #### Cuando tenía 6 años, me regalaron una tableta. Su uso, por razones obvias, era el normal para una niña de aquella edad: Juegos móviles, principalmente.
-#### Por mi octavo cumpleaños, me regalaron una [Nintendo 2DS](https://www.nintendo.com/es-es/Hardware/Familia-Nintendo-3DS/Familia-Nintendo-3DS-94560.html?srsltid=AfmBOoovHbP9irE76ud3U-fM_DEQ_l_Q1C41DziH8dXh7CRZSqBTSkmN) (Modelo blanco y rosa)
-> Mi primer videojuego fue el Animal Crossing.
+#### Por mi octavo cumpleaños, me regalaron una [Nintendo 2DS](https://www.nintendo.com/es-es/Hardware/Familia-Nintendo-3DS/Familia-Nintendo-3DS-94560.html?srsltid=AfmBOoovHbP9irE76ud3U-fM_DEQ_l_Q1C41DziH8dXh7CRZSqBTSkmN) (Modelo blanco y rosa). 
+> Mi primer videojuego fue Animal Crossing.
 
 <p align="center">
   <img  src="https://s4.thcdn.com/productimg/600/600/10941131-1544343853121194.jpg">
@@ -58,7 +58,7 @@
 ## Actualidad (2022-)
 </div>
 
-#### En verano de 2022, me aventuré a crear una novela visual, que nunca terminé. Mediante la aplicación *RenPy*, que usaba el lenguaje de programación *Python*, adquirí conocimientos básicos. 
+#### En verano de 2022, me aventuré a crear una novela visual, que nunca terminé. Mediante la aplicación *RenPy*, que usaba el lenguaje de programación *Python*. Adquirí conocimientos básicos. 
 #### También he intentado hacer algunos proyectos en Blender, intentando crear pequeñas animaciones que no llegué a terminar debido a la falta de tiempo debido al instituto.
 #### Considero esta una etapa de autodescubrimiento en la que he estado probando diferentes herramientas. Pese a no haber realizado ningún proyecto a gran escala, me ha servido para ampliar mis horizontes y descubrir cosas nuevas y desconocidas para mí.
 ### En resumen, he intentado adentrarme/informarme en:
