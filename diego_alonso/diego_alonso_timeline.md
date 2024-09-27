@@ -1,0 +1,22 @@
+# <span style="color:#FF0000;">**Eje cronológico de mi relación con la informática y la tecnología**</span>
+![Imagen](https://talently.tech/blog/wp-content/uploads/2021/03/marca-personal-para-ingenieros-de-software-1024x768.jpg)
+## <span id="2015-primer-contacto-con-la-informática" style="color:#FFFF00;">**2017: Primer contacto con la informática**</span>
+Desde **pequeño** me han llamado la atención los ordenadores, como todo niño empecé probando el **Pc de sobremesa**, jugando a juegos y viendo videos en youtube, aunque tampoco era un gran aficionado.
+![Imagen Pc sobremesa](https://www.electrodomesta.es/images/articulos/original/ordenador_sobremesa_hp_all_in_one_20_2201ns_5869-1.jpg)
+## <span style="color:#FFFF00;">**2018: Primera tablet propia**</span>
+Pasados unos años desde mi primera toma de contacto, me regalaron una tablet la cual seguía utilizando para **jugar a juegos, aunque ya alguna vez navegaba para buscar información acerca de cosas que me interesasen en aquel entonces**.![Imagen de mi Primera tablet](https://www.lavanguardia.com/andro4all/hero/2023/11/tablet-vieja-portadas.jpg?width=1200)
+## <span style="color:#FFFF00;">**2019: Primer móvil-Samsung A40**</span>
+Justo el año antes de pandemia, a los **14 años** me regalaron mi primer teléfono móvil, era un **samsung a40**, y a raiz de este regalo empezó mi interés en la tecnología, porque aunque hubiese visto un montón de veces móviles a mi alrededor, cuando le tuve supe realmente la _cantidad de funciones_ que tenía y lo útil que era... ![Imagen Samsung a40](https://i.ebayimg.com/images/g/caoAAOSwCbtgy2s0/s-l400.jpg)
+## <span style="color:#FFFF00;">**2020: Primer lenguaje de programación-Scratch**</span>
+Durante pandemia, teníamos clases remotas, en las que empezamos con scratch y aunque fue mas difícil de lo normal, hicimos unos cuantos trabajos de iniciación, como; el pacman, juego de carreras..., ahí aprendí **los conceptos fundamentales de la programación**, como las **variables, los bucles y las condiciones**. Y la verdad que me llamó mucho la atención y me fui informando cada vez más.![Imagen portada scratch](https://museo.inf.upv.es/wp-content/uploads/2021/05/scratch-howilearnedcode.jpg)
+## <span style="color:#FFFF00;">**2021-2023: Primer contacto con java**</span>
+**En bachiller**, durante dos años estuvimos trabajando con java, primero desde unas **nociones básicas**, como por ejemplo: recuerdo que hacíamos **calculadoras básicas o juego de adivinar el número**, y el proyecto final de primero de bachiller fue un **tres en raya**, que ya era una **dificultad media**, por último en **segundo de bachiller** cada uno elegía su proyecto, yo elegí un **programa que permitía gestionar una serie de contactos**.![Logo Java](https://rosamarfil.es/tutoriales/wp-content/uploads/2019/08/java-logo-png.png)
+## <span style="color:#FFFF00;">**2023-2024: Interés por el sector**</span>
+En bachiller ya decidí, que iba a estudiar **ingeniería informática**, por lo que me informe, tanto por su amplia rama de **salidas laborales** como por sus **sueldos**. Descubrí a un streamer y programador conocido como **Midudev**, quién hace directos sobre noticias de programación, ademas de hacer cursos y demás actividades. El subió, la variedad de salarios desde que empezó hasta la actualidad: ![Salarios Midudev](https://pbs.twimg.com/media/Fqzl3WeX0Agnmoq?format=jpg&name=900x900)Le suelo ver a menudo, ya que a parte de aprender, me parece muy interesante. [Aquí puedes ver su canal de twitch](https://www.twitch.tv/midudev)
+## <span style="color:#FFFF00;">**Actualidad: Seguir aprendiendo...**</span>
+Ahora en la universidad, ~~en los primeros días y proyectos que hicimos pensé que iba a resultar muy difícil~~, y lo tacho porque al contrario sinceramente me gustan este tipo de retos en los que tengo que prestar atención y esforzarme por aprender sobre lo que realmente me gusta, ahora quiero seguir aprendiendo y cogiendo mas capacidades centrandome en **tecnologías modernas**. Mi objetivo es seguir creando proyectos cada vez mas mejorados y mas ambiciosos, y aprender a cerca de:
+* _Desarollo de software_
+* _la ciberseguridad_ 
+* _la inteligencia artificial_ 
+
+![Imagen Final](https://diversidadatencion.wordpress.com/wp-content/uploads/2019/05/fin.png)
