@@ -1,4 +1,5 @@
 <style>
+
 @import url('https://fonts.googleapis.com/css2?family=PT+Mono&display=swap');
 
 h2 {
@@ -19,32 +20,62 @@ a:hover {
 color {
     color: #fad201;
 }
+
 hidden {
     display: none;
 }
+
 html {
     background: rgba(22, 22, 23, .8);
     color: rgb(245, 245, 247);
 }
+
+.container-img-girl img {
+    height: max(20vh);
+}
+
+.containter-img-eyes{
+    height: 15vh;
+    width: 100%;
+    overflow: hidden;
+    display: flex;
+    align-items: center;
+    place-content: center;
+}
+
+   
+.containter-img-eyes img {
+    aspect-ratio: auto;
+    width: 100%;
+}
+
 </style>
-
-
-[CANAL]: https://www.youtube.com/@Midas-Main
-[UNEA]: https://www.uneatlantico.es/
 
 # ¡Encantado! 👋
 
 ## 📒 Índice
 
-1. [¿Quién soy?](#quién-soy)
-2. [¿Cuál es mi trayectoria?](#cuál-es-mi-trayectoria)
-   - [Hitos Remarcables](#hitos-remarcables)
-3. [Proyectos Hechos](#proyectos-hechos)
-   - [Intento de juego idle clicker](#intento-de-juego-idle-clicker)
-   - ["Chipeo" de una `nintendo switch` versión 2](#chipeo-de-una-nintendo-switch-versión-2)
-   - [Página web para un streamer (fan Art)](#página-web-para-un-streamer-fan-art)
-4. [Proyectos abiertos](#proyectos-abiertos)
+<div style="display: flex;">
+  <div class="container-img-girl" style="">
 
+  ![Dibujo de una chica. Decoración del Index](/img/53149f7b1d520222307783f996094974.jpg)
+
+  </div>
+  <div>
+  
+1. [¿Quién soy?](#-quién-soy)
+2. [¿Cuál es mi trayectoria?](#️-cuál-es-mi-trayectoria)
+   - Hitos Remarcables
+3. [Proyectos Hechos](#-proyectos-hechos)
+   - [Intenté hacer un juego idle clicker](#intenté-hacer-un-juego-idle-clicker)
+   - [Alteré la configuración de una `nintendo switch` versión 2](#alteré-la-configuración-de-una-nintendo-switch-versión-2)
+   - [Página web para un streamer (fan Art)](#página-web-para-un-streamer-fan-art)
+4. [Proyectos abiertos](#-proyectos-abiertos)
+    
+    ...
+
+  </div>
+</div>
 
 ## ❓ ¿Quién soy?
 
@@ -61,40 +92,53 @@ Me quedé con esta frase y la llevo acabo siempre: <color>***Aprovecha siempre l
 | Año | Explicación |
 |:-:|:-|
 | **2024...** | Me voy a dedicar a aprobar la universidad. |
-| 2023 | He trabajado en una [página](https://github.com/SoyMidas/web-rickyedit) para un youtuber —Fan Art—, lo reaccionó en directo y a pesar de que no lo utilizó, si que dio su visto bueno con la idea. Además también trabajo en otros proyectos tanto de programación como externos a esta rama.|
-|2022||
+| 2023 | He trabajado en una [página](https://github.com/SoyMidas/web-rickyedit) para un youtuber —Fan Art—, lo reaccionó en directo y a pesar de que no lo utilizó, si que dio su visto bueno con la idea. Además también trabaje en otros proyectos tanto de programación como externos a esta rama.|
 |2021|Empiezo a trabajar en un curso online ([FreeCodeCamp](https://www.freecodecamp.org/)) y meterme en el mundo de HTML, CSS, JavaScript, TypeScript, Tailwind CSS, React y Astro —en orden cronológico—.|
-|2020|Debido a la pandemia empiezo a investigar.|
-|**...2020**| A pesar de que en 2020 empezase a investigar la programación, desde pequeño he tenido varios hitos remarcables: |
+|2020|Debido a la pandemia empiezo a investigar temas relacionados con las ramas de la tecnología informatica.|
+|**...2019**| A pesar de que en 2020 empezase a investigar la programación, desde pequeño he tenido varios hitos remarcables: |
+
 ---
+
 |Hito|Información|
 |:-|:-|
 |Construí mi ordenador|De pequeño, con ayuda de mi padre compuse un ordenador comprado por partes, actualmente es el que utilizo y estoy muy orgulloso de él.|
-| Fuí a clases de programación de pequeño| A los 8-9 años mis padres me apuntaron a unas clases de programación en Scratch y Arduino, además de clanes de creación de mods y mapas en Minecraft.|
+| Fuí a clases de programación de pequeño| A los 8-9 años mis padres me apuntaron a unas clases de programación en Scratch y Arduino, además de clases de creación de mods y mapas en Minecraft.|
 | Trabajé en un servidor de discord *(no remunerado)*| Entre otras cosas aprendí a utilizar markdown y APIs (como la de discord)|
 
+<div class="containter-img-eyes">
 
-## 🔒 Proyectos Hechos.
+![Dibujo de los ojos de una mujer que funciona como separador](/img/d4feffff0209cac4f1574537e280585e.jpg)
 
-### Intento de juego idle clicker. 
+</div>
+
+## 🔒 Proyectos Hechos
+
+### Intenté hacer un juego idle clicker
 
 Trabajé en un proyecto personal que buscaba crear un juego basado en otro de móvil. Mi principal proposito era aprender a utilizar JavaScript y React. [REPOSITORIO](https://github.com/SoyMidas/Millonarie-Game-Dupe-2.0)
 
-### "Chipeo" de una `nintendo switch` versión 2. 
+<center>
+
+![Gif Meme para el ejemplo de construcción](/img/builder-coc-clash-of-clans.gif)
+
+</center>
+
+### Alteré la configuración de una `nintendo switch` versión 2
 
 Instalé un chip parecido a este. Va soldado a la placa y es del tamaño de 2-3 dedos.
 
-![Una imagen de ejemplo del dispositivo que instalé en la switch](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fae01.alicdn.com%2Fkf%2FS5683618edbf94abea4678826314e4ab66%2FHwfly-Core-3rd-Generation-Modchip-Support-V1-V2-Normal-Console.jpg&f=1&nofb=1&ipt=399194830a2fb56729a9a94ef43e29760475d4370d025585148ad36ebca512a6&ipo=images)
+![Una imagen de ejemplo del dispositivo que instalé en la switch](/img/Hwfly-Core-3rd-Generation-Modchip-Support-V1-V2-Normal-Console-4205285873.jpg)
 
-### Página web para un streamer (fan Art) 
+### Página web para un streamer (fan Art)
 
 Como ya he puesto en la línea principal, hice una página web para un streamer, la cuál reaccionó y proyecto ideas de mi proyecto en su proximo proyecto de página web. Era un concepto. [REPOSITORIO](https://github.com/SoyMidas/web-rickyedit)
 
-## 🔓 Proyectos abiertos. 
+## 🔓 Proyectos abiertos
 
-### [Canal de youtube][CANAL] gestionado, grabado y editado por mi persona.
+### [Canal de youtube][CANAL] gestionado, grabado y editado por mi persona
 
-Me gusta **aportar** publicamente con mis conocimientos y con mis experiencias de vida a través de las redes sociales, por esta razón empecé mi canal de youtube y a ser activo en redes sociales. Actualmente me preocupo al completo del canal. Esto me ha enseñado muchas cosas sobre los ordenadores: 
+Me gusta **aportar** publicamente con mis conocimientos y con mis experiencias de vida a través de las redes sociales, por esta razón empecé mi canal de youtube y a ser activo en redes sociales. Actualmente me preocupo al completo del canal. Esto me ha enseñado muchas cosas sobre los ordenadores:
+
 - **Manejabilidad** de archivos.
 - Correcta **nomenclatura**.
 - **Metodos** para ordenar documentos.
@@ -106,7 +150,7 @@ Me gusta **aportar** publicamente con mis conocimientos y con mis experiencias d
 
 </div>
 
-## 👁️ Visión a futuro. 
+## 👁️ Visión a futuro
 
 <hidden>He intentado utilizar checkbox, pero no me funcionan. Así que he probado con una alternativa usando emojis.</hidden>
 
@@ -116,3 +160,6 @@ Me gusta **aportar** publicamente con mis conocimientos y con mis experiencias d
 
 🔜 Seguir manteniendo mis redes activas.
 ...
+
+[CANAL]: https://www.youtube.com/@Midas-Main
+[UNEA]: https://www.uneatlantico.es/
