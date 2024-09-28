@@ -58,7 +58,7 @@ html {
 <div style="display: flex;">
   <div class="container-img-girl" style="">
 
-  ![Dibujo de una chica. Decoración del Index](/img/53149f7b1d520222307783f996094974.jpg)
+  ![Dibujo de una chica. Decoración del Index](./img/53149f7b1d520222307783f996094974.jpg)
 
   </div>
   <div>
@@ -107,7 +107,7 @@ Me quedé con esta frase y la llevo acabo siempre: <color>***Aprovecha siempre l
 
 <div class="containter-img-eyes">
 
-![Dibujo de los ojos de una mujer que funciona como separador](/img/d4feffff0209cac4f1574537e280585e.jpg)
+![Dibujo de los ojos de una mujer que funciona como separador](./img/d4feffff0209cac4f1574537e280585e.jpg)
 
 </div>
 
@@ -119,7 +119,7 @@ Trabajé en un proyecto personal que buscaba crear un juego basado en otro de m�
 
 <center>
 
-![Gif Meme para el ejemplo de construcción](/img/builder-coc-clash-of-clans.gif)
+![Gif Meme para el ejemplo de construcción](./img/builder-coc-clash-of-clans.gif)
 
 </center>
 
@@ -127,7 +127,7 @@ Trabajé en un proyecto personal que buscaba crear un juego basado en otro de m�
 
 Instalé un chip parecido a este. Va soldado a la placa y es del tamaño de 2-3 dedos.
 
-![Una imagen de ejemplo del dispositivo que instalé en la switch](/img/Hwfly-Core-3rd-Generation-Modchip-Support-V1-V2-Normal-Console-4205285873.jpg)
+![Una imagen de ejemplo del dispositivo que instalé en la switch](./img/Hwfly-Core-3rd-Generation-Modchip-Support-V1-V2-Normal-Console-4205285873.jpg)
 
 ### Página web para un streamer (fan Art)
 
