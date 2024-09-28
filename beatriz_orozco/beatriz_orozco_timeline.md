@@ -19,4 +19,4 @@
     Empecé mis estudios de ingeniería informática en la Universidad de Cantabria. Así que mi primer lenguaje de programación fue C, aunque también aprendí Java, HTML, R, PHP, Python y ensamblador. Sin embargo, me di cuenta de que la rama de computadores no era lo mío, y nunca logré entender bien el lenguaje de ensamblador. También me perdía en los otros lenguajes ya que notaba que todo lo daban muy rápido y nunca los llegué a aprender bien.
 ## **2024** - Cambio de Universidad
 - **Cambio a la UNEAT**  
-  Me cambié a la **UNEAT** ya que allí no me conseguí adaptar, pero sigo intentándolo ya que siempre he tenido presente la informatica de una manera u otra en mi vida y me gustaría especializarme en ella.
+  Me cambié a la **UNEAT** ya que allí no me conseguí adaptar, pero sigo intentándolo ya que forma una parte importante de mi vida y me gustaría especializarme en ella. 
