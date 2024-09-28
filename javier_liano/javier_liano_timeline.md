@@ -91,8 +91,9 @@ Me quedé con esta frase y la llevo acabo siempre: <color>***Aprovecha siempre l
 
 | Año | Explicación |
 |:-:|:-|
-| **2024...** | Me voy a dedicar a aprobar la universidad. |
-| 2023 | He trabajado en una [página](https://github.com/SoyMidas/web-rickyedit) para un youtuber —Fan Art—, lo reaccionó en directo y a pesar de que no lo utilizó, si que dio su visto bueno con la idea. Además también trabaje en otros proyectos tanto de programación como externos a esta rama. Además empiezo a investigar de forma autodidacta el uso de bash, linux, la instalación de distros de linux, el uso de Docker y la aplicación del mismo e instalo en mi ordenador un double boot con archlinux -*reconocida como una de las distros de linux más difíciles de instalar*-. Además tuve Ubuntu, donde diseñé el codigo que se ve en el apartado [señalado abajo](#-codigo-de-ubuntu) y el cuál subí como funcionaba a redes sociales llegando a tener casi **un millón** de visitas y más de **sesenta mil** likes. |
+| 2025... | ??? |
+| 2024 | Aprendí a utilizar Inteligencias Artificiales para ayudarme en mis proyectos, tanto LLMs, Chat GPT, Stable Diffusion, entre otros. Me voy a dedicar a aprobar la universidad. |
+| 2023 | He trabajado en una [página](https://github.com/SoyMidas/web-rickyedit) para un youtuber —Fan Art—, lo reaccionó en directo y a pesar de que no lo utilizó, si que dio su visto bueno con la idea. Además también trabaje en otros proyectos tanto de programación como externos a esta rama. Además empiezo a investigar de forma autodidacta el uso de bash, linux, la instalación de distros de linux, el uso de Docker y la aplicación del mismo e instalo en mi ordenador un double boot con archlinux -*reconocida como una de las distros de linux más difíciles de instalar*-. Además tuve Ubuntu, donde diseñé el codigo que se ve en el apartado [señalado abajo](#-codigo-de-ubuntu) y el cuál subí como funcionaba a redes sociales llegando a tener casi **un millón** de visitas y más de **sesenta mil** likes. También puedo decir que aprendí a utilizar Davinci Resolve, Blender, Photoshop y Ilustrator. |
 |2021|Empiezo a trabajar en un curso online ([FreeCodeCamp](https://www.freecodecamp.org/)) y meterme en el mundo de HTML, CSS, JavaScript, TypeScript, Tailwind CSS, React y Astro —en orden cronológico—.|
 |2020|Debido a la pandemia empiezo a investigar temas relacionados con las ramas de la tecnología informatica.|
 |**...2019**| A pesar de que en 2020 empezase a investigar la programación, desde pequeño he tenido varios [hitos remarcables](#-hitos-de-mi-infancia). |
@@ -159,6 +160,8 @@ sleep 5
 |Construí mi ordenador|De pequeño, con ayuda de mi padre compuse un ordenador comprado por partes, actualmente es el que utilizo y estoy muy orgulloso de él.|
 | Fuí a clases de programación de pequeño| A los 8-9 años mis padres me apuntaron a unas clases de programación en Scratch y Arduino, además de clases de creación de mods y mapas en Minecraft.|
 | Trabajé en un servidor de discord *(no remunerado)*| Entre otras cosas aprendí a utilizar markdown y APIs (como la de discord).|
+|Mi primer ordenador|De pequeño utilizaba el Mac de mi padre para jugar, pero se me quedó pequeño rapido.|
+|Mi primera consola|Mi primera consola fue la Wii, aunque a la par también tuve la Nintendo DS.|
 
 <div class="containter-img-eyes">
 
