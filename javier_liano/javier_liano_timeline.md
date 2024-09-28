@@ -2,6 +2,10 @@
 
 @import url('https://fonts.googleapis.com/css2?family=PT+Mono&display=swap');
 
+html {
+    color-scheme: dark light;
+}
+
 h2 {
         font-family: "PT Mono", monospace;
         text-align: center;
