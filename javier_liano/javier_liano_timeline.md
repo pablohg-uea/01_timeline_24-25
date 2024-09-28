@@ -56,7 +56,7 @@ html {
 ## 📒 Índice
 
 <div style="display: flex;">
-  <div class="container-img-girl" style="">
+  <div class="container-img-girl">
 
   ![Dibujo de una chica. Decoración del Index](./img/53149f7b1d520222307783f996094974.jpg)
 
@@ -92,12 +92,67 @@ Me quedé con esta frase y la llevo acabo siempre: <color>***Aprovecha siempre l
 | Año | Explicación |
 |:-:|:-|
 | **2024...** | Me voy a dedicar a aprobar la universidad. |
-| 2023 | He trabajado en una [página](https://github.com/SoyMidas/web-rickyedit) para un youtuber —Fan Art—, lo reaccionó en directo y a pesar de que no lo utilizó, si que dio su visto bueno con la idea. Además también trabaje en otros proyectos tanto de programación como externos a esta rama.|
+| 2023 | He trabajado en una [página](https://github.com/SoyMidas/web-rickyedit) para un youtuber —Fan Art—, lo reaccionó en directo y a pesar de que no lo utilizó, si que dio su visto bueno con la idea. Además también trabaje en otros proyectos tanto de programación como externos a esta rama. Además empiezo a investigar de forma autodidacta el uso de bash, linux, la instalación de distros de linux, el uso de Docker y la aplicación del mismo e instalo en mi ordenador un double boot con archlinux -*reconocida como una de las distros de linux más difíciles de instalar*-. Además tuve Ubuntu, donde diseñé el codigo que se ve en el apartado [señalado abajo](#-codigo-de-ubuntu) y el cuál subí como funcionaba a redes sociales llegando a tener casi **un millón** de visitas y más de **sesenta mil** likes. |
 |2021|Empiezo a trabajar en un curso online ([FreeCodeCamp](https://www.freecodecamp.org/)) y meterme en el mundo de HTML, CSS, JavaScript, TypeScript, Tailwind CSS, React y Astro —en orden cronológico—.|
 |2020|Debido a la pandemia empiezo a investigar temas relacionados con las ramas de la tecnología informatica.|
-|**...2019**| A pesar de que en 2020 empezase a investigar la programación, desde pequeño he tenido varios hitos remarcables: |
+|**...2019**| A pesar de que en 2020 empezase a investigar la programación, desde pequeño he tenido varios [hitos remarcables](#-hitos-de-mi-infancia) |
 
----
+### 💻 Codigo de Ubuntu
+
+```bash
+    #!/bin/bash
+
+# ROOT
+
+bienvenida="Buenos días Midas, son las $(date +%I:%M), encantado de volver a verte. ¿Qué es lo que quieres hacer hoy?"
+espeak="espeak -v mb/mb-es1 -s150"
+
+
+# Comandos
+if rfkill list bluetooth | grep -q "Soft blocked: yes"; then
+    # echo "Bluetooth está deshabilitado. Habilitando Bluetooth..."
+    rfkill unblock bluetooth
+    sleep 3 # Pausa de 3 segundos
+fi
+
+# echo "Conectando al dispositivo Bluetooth con ID: 00:F6:20:E7:B0:88..."
+sleep 3
+bluetoothctl connect 00:F6:20:E7:B0:88
+nohup keepassxc &
+sleep 2 
+
+# Comando para hablar
+$espeak "$bienvenida"
+
+# Función para crear ventana pop up
+function popup {
+    zenity --forms --title="$1" --text="Elige una opción:" --add-combo="Opciones" --combo-values="Youtube|Programación|IA"
+}
+
+# Crear ventana pop up con 3 botones
+function popup {
+    respuesta=$(zenity --forms --title="$1" --text="Elige una opción:" --add-combo="Opciones" --combo-values="Youtube|Programación|IA")
+
+    if [[ "$respuesta" == "Youtube" ]]; then
+        $espeak "Has elegido la opción Youtube"
+    elif [[ "$respuesta" == "Programación" ]]; then
+        $espeak "Así que vamos a programar... vale, abriré todo lo necesario"
+        
+        nohup code &
+	    nohup vivaldi https://chat.openai.com/chat &
+
+    elif [[ "$respuesta" == "IA" ]]; then
+        $espeak "Has elegido la opción IA"
+    else
+        $espeak "Has cancelado la operación"
+    fi
+}
+
+popup "Elige entre las opciones"
+sleep 5
+```
+
+### 🍭 Hitos de mi infancia
 
 |Hito|Información|
 |:-|:-|
