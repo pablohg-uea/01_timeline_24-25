@@ -1,3 +1,4 @@
+**Nota:** En GitHub no se visualizan correctamente algunos estilos.
 # Mi línea de tiempo ⌚
 
 > ## Acerca de mí 🔍
@@ -33,11 +34,6 @@ Prácticamente lo único que podía hacer era enviar mensajes por WhatsApp, pero
 
 ### Primer computador y primeros pasos en la programación 💾
 Mis primeros programas fueron en Scratch <img src="https://cdn.worldvectorlogo.com/logos/scratch-cat.svg" alt="Logo de Scratch" width="25" style="vertical-align: middle;">. Gracias a mi madre, que es Ingeniero en Informática, aprendí los conceptos básicos desde temprano. Haciendo [click aquí](https://scratch.mit.edu/users/mienrimo/) pueden ir a mi perfil de Scratch si desean darle un vistazo.
-
-Aquí uno de los programas que hice hace tiempo:
-<div style="text-align: center;">
-    <iframe src="https://scratch.mit.edu/projects/151096795/embed/" width="485" height="402" style="border: 1px solid #000;"></iframe>
-</div>
 
 La primera laptop que tuve fue una Canaima, que irónicamente mis padres tuvieron que comprar. No era muy potente, pero me permitió hacer las tareas que necesitaba.
 <div style="text-align: center;">
