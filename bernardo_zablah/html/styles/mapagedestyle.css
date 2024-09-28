@@ -1,0 +1,182 @@
+/* ==============================================
+   Ma feuille de style � partir de:
+   FEUILLE DE STYLES DES GABARITS HTML/CSS --- 03
+   � Elephorm & Alsacreations.com
+   Conditions d'utilisation:
+   http://creativecommons.org/licenses/by/2.0/fr/
+   ============================================== */
+
+
+/* --- COULEURS --- */
+
+/* Note: vous pouvez modifier simplement l'aspect de ce gabarit en modifiant
+   uniquement les couleurs de fond (propri�t�s background) et les couleurs
+   du texte (propri�t� color).
+   Pour modifier la disposition des blocs, voir plus bas dans la feuille de
+   styles la partie �positionnement�. */
+
+/* G�n�ral */
+body {
+	color: #4388ec;         /* couleur du texte de base dans l'en-t�te  */
+	background: #ffffff;	/* couleur du fond des bandes lat�rales  */
+}
+a {
+	color: #ee18f4;
+}
+a:hover, a:focus {		
+	color: #e714f7;
+}
+strong {
+	color: #FFFFFF;
+}
+
+/* Page */
+#global {
+	background: #ffffff;    /* couleur du fond de l'en-t�te et du pied de page */
+}
+
+/* Navigation */
+#navigation {
+	background: #cacaca;    /* couleur du fond du bandeau pour les liens internes  */
+}
+#navigation a {
+	color: #4388ec;		/* couleur du texte du bandeau pour les liens internes */
+}
+#navigation a:hover, #navigation a:focus {
+	background: #FFFFFF;
+}
+
+/* Contenu principal */
+#contenu {
+	color: #0a0009;		/* couleur du texte de base de la partie principale de la page */
+	background: #ffffff;    /* couleur du fond de la partie principale de la page */
+}
+#contenu a {
+	color: #8618f4;		/* couleur des liens hypertexte externes la partie principale de la page */
+}
+#contenu a:hover, #contenu a:focus {
+	color: #f418df;
+}
+#contenu strong {
+	color: #5d4528;		/* couleur du texte en gras de la partie principale de la page */
+}
+
+/* Pied de page */
+#pied {
+	color: #4388ec;		/* couleur du texte de pied de page  */
+}
+
+
+/* --- POSITIONNEMENT --- */
+
+/* Page */
+html, body {
+	height: 100%; /* Voir -> Note 1 ci-dessous */
+}
+body {
+	padding: 0;
+}
+#global {
+	min-height: 100%; /* -> 1 */
+	width: 900px;
+	overflow: hidden; /* -> 2 */
+	margin-left: auto;
+	margin-right: auto; /* -> 3 */
+	font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}
+
+/* En-t�te */
+#entete {
+	padding: 15px 20px 10px 20px;
+}
+#entete h1 {
+	margin: 0;
+}
+#entete h1 img {
+	float: left;
+	max-width:75px;
+	margin: 7px 20px 10px 0;
+}
+#entete .sous-titre {
+	margin: 4px 0 15px 0;
+}
+
+/* Menu de navigation */
+#navigation {
+	padding: 12px 15px;
+}
+#navigation ul {
+	margin: 0;
+	list-style: none;
+	text-align: center;
+}
+#navigation li {
+	display: inline;
+}
+#navigation a {
+	padding: 6px;
+	line-height: 1.5;
+	font-size: .9em;
+	text-decoration: none;
+	font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}
+
+/* Contenu */
+#contenu {
+	padding: 10px 20px;
+}
+#contenu > :first-child {
+	margin-top: 10px;
+}
+#contenu p, #contenu li {
+	line-height: 1.5;
+}
+
+/* Pied de page */
+#pied {
+	padding: 10px 20px; 
+	font-size: .85em;
+}
+#pied p {
+	margin: .5em 0;
+}
+#copyright {
+	text-align: left;
+	font-size: 1em;
+}
+
+
+/* --- NOTES ---
+
+1.	Pour pouvoir utiliser une hauteur (height) ou une hauteur minimale
+	(min-height) sur un bloc, il faut que son parent direct ait lui-m�me une
+	hauteur d�termin�e (donc toute valeur de height sauf "auto": hauteur en
+	pixels, em, autres unit�s...).
+	Si la hauteur du parent est en pourcentage, elle se r�f�re alors � la
+	hauteur du �grand-p�re�, et ainsi de suite.
+	Ainsi, pour pouvoir utiliser un "min-height: 100%" sur div#contenu, il nous
+	faut:
+	- un parent (body) en "height: 100%";
+	- le parent de body �galement en "height: 100%".
+
+2.	Il faut �viter que les marges des enfants de div#global ne se transmettent
+	� leur parent. Notamment, le margin-top du premier enfant (ici, div#entete),
+	et le margin-bottom du dernier enfant (ici, div#pied).
+	On �vite ce probl�me gr�ce � la propri�t� CSS overflow, qui bloque la
+	fusion des marges. En savoir plus sur la fusion des marges:
+	http://web.covertprestige.info/test
+		04-blocs-imbriques-et-fusion-des-marges.html
+
+3.	Les marges automatiques � gauche et � droite permettent de centrer notre
+	bloc div#global, et donc tout le site.
+	Pour aligner div#global � gauche, on fera:
+		margin-left: 0;
+		margin-rigth: auto;
+	Pour aligner div#global � droite, on fera:
+		margin-left: auto;
+		margin-right: 0;
+	Pour aligner div#global � droite avec un retrait (� droite) de 100px:
+		margin-left: auto;
+		margin-right: 100px;
+
+*/
