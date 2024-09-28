@@ -40,11 +40,16 @@ La primera laptop que tuve fue una Canaima, que irónicamente mis padres tuviero
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDKrolNeWgezv-i3XkuCCqZ7ABdYB9sXVE0A&s" alt="Canaima" width="200" style="border: 5px solid grey; border-radius: 20px;">
 </div>
 La usé con Windows 7, después de cambiar el sistema operativo que traía de fábrica. Comencé a programar en Scratch a los 12 años.
-
 ---
 
 ### Cambio de computador 💻
 Durante la pandemia, mis padres me compraron una PC de sobremesa, mucho más potente que la Canaima, donde aprendí HTML, CSS y C++. También cambié varias veces de teléfono; nunca tuve un iPhone, pero siempre cumplieron su función.
+
+### Una nueva Experiencia 💡
+Luego de la pandemia mis padres compraron una impresora 3d, y yo fuí el encargado de inversigar cómo se utilizaba, gracias a ésto tuve que aprendes ciertas cosas de la impresón 3d, tales cómo calibrar la impresora o hacer modelos 3d en Tinkercad, también aprendí a utilizar Cura para exportar al formato del archivo.
+<div style="text-align: center;">
+    <img src="https://lh3.googleusercontent.com/pw/AP1GczMY8BtgIePlTXJeClPwIk5XQ2plDyyoPJBxgUAQp-IZynYBH9DKZAnZHi9EskyriDzVwh0kl8ibDLodQU4RSK1bqzFv0sswu2EAiq1DgBpDN1odOYclsuA74LCcPK6OhrKYF9VlZkzXu2y8wA3oC4HE_A=w455-h607-s-no-gm?authuser=0" alt="Canaima" width="200" style="border: 5px solid grey; border-radius: 20px;">
+</div>
 
 ### Otros dispositivos 📸
 Hace un año y medio, ahorré dinero y compré una cámara de fotos, una actividad que ahora tengo como hobby.
