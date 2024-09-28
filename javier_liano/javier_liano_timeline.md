@@ -3,7 +3,9 @@
 @import url('https://fonts.googleapis.com/css2?family=PT+Mono&display=swap');
 
 html {
-    color-scheme: dark light;
+    	color-scheme: dark light;
+	background: rgba(22, 22, 23, .8);
+    	color: rgb(245, 245, 247);
 }
 
 h2 {
@@ -27,11 +29,6 @@ color {
 
 hidden {
     display: none;
-}
-
-html {
-    background: rgba(22, 22, 23, .8);
-    color: rgb(245, 245, 247);
 }
 
 .container-img-girl img {
