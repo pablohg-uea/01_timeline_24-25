@@ -84,4 +84,3 @@ Ahora, a los 18 años, tras cursar mi último año de bachiller ya estoy decidid
 - Trabajar en una gran empresa tecnológica.
 - Crear mi propia startup.
 
------
