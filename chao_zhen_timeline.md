@@ -55,6 +55,31 @@
 
 > ***[Este es un trabajo en Replit que lo tuve que hacer en Java era sobre bienes raices](https://replit.com/join/kfywyfzckw-chaopengpeng)***
 
+### **(2021-2022) - Mi segundo Lenguaje de Programación** <img src="image-11.png" alt="Descripción" width="50px" height="50px" >
+
+- EN 2021-2022, igual en mis clases de programación, empezamos a ver un nuevo leguaje el cual era C#, no hay mucho que decir, parecido a Java sin embargo la sintaxis cambia, pero la lógica es la misma<br>
+<br>
+<img src="image-10.png" alt="Descripción"  width="500px" height="300px"><br>
+
+> ***[Este es un trabajo en Replit que lo tuve que hacer en C# era sobre Hosteleria](https://replit.com/join/omgugmxcnq-chaopengpeng)***
+
+### **(2023) - Pragramación Web** <img src="image-12.png" alt="Descripción" width="50px" height="50px" >
+
+- EN 2023,mi ultimo año de colegio, vimos lo que era un poco de programación web o HTML y CSS, Esta es una de las areas que mas me gustó ya que se pueden hacer muchas cosas con estos lenguajes de la mano y me metí un poco mas a fondo cpon estos lenguajes que con otros que había visto en otros años<br>
+<br>
+<img src="image-13.png" alt="Descripción"  width="650px" height="300px"><br>
+
+> ***[Esto es un inicio de sesión hecho con solo HTML y CSS](https://replit.com/join/omgugmxcnq-chaopengpeng)***
+
+## **(2024) - Actualidad** <img src="image-14.png" alt="Descripción" width="50px" height="50px" >
+
+- EN 2024, Estoy aprendiendo Javascript, normalmente lo hago en mis capacitaciones de colaboración a beca, pero sé que es muy importante compaginar esto con el desarrollo web ya que con estas tres herramientas se pueden hacer cosas increibles.Además sé que todas estas herramientas que he aprendido con los años me van a ayudar a ser un gran programador en el futuro.<br>
+<br>
+<img src="image-15.png" alt="Descripción"  width="650px" height="300px"><br>
+
+> ***Actualemente estoy haciendo mis capacitaciones desde Khan Academy***
+
+
 
 
 
