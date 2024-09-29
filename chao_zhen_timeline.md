@@ -71,7 +71,7 @@
 
 > ***[Esto es un inicio de sesión hecho con solo HTML y CSS](https://replit.com/join/omgugmxcnq-chaopengpeng)***
 
-## **(2024) - Actualidad** <img src="image-14.png" alt="Descripción" width="50px" height="50px" >
+### **(2024) - Actualidad** <img src="image-14.png" alt="Descripción" width="50px" height="50px" >
 
 - EN 2024, Estoy aprendiendo Javascript, normalmente lo hago en mis capacitaciones de colaboración a beca, pero sé que es muy importante compaginar esto con el desarrollo web ya que con estas tres herramientas se pueden hacer cosas increibles.Además sé que todas estas herramientas que he aprendido con los años me van a ayudar a ser un gran programador en el futuro.<br>
 <br>
