@@ -15,7 +15,7 @@ Este trabajo tiene un doble objetivo. Por un lado aplicar los conocimientos de G
 3. Crear un archivo llamado nombre_apellido_timeline. El archivo debe ser de tipo MD (Markdown)
 4. El archivo debe contener una línea temporal de la evolución de la informática y tu relación con ella. (Vuestro primer ordenador, vuestro primer lenguaje de programación, vuestro primer móvil, etc).
 5. El lenguaje MD, ofrece una serie de opciones que tendréis investigar para sacarle el máximo partido a las opciones con las que cuenta.
-6. Para entregarlo, deberéis realizar un **Pull Request**
+6. Para entregarlo, deberéis realizar un **Pull Request a la rama "entrega"**
 7. No debéis superar la fecha limite de entrega **Domingo 29 de Septiembre a las 11:59 de la noche** Fuera de ese plazo, no se aceptarán entregas.
 
 ### Valoración
