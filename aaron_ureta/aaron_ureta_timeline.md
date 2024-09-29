@@ -22,5 +22,4 @@
 | 2022  | Primer laptop propia, necesite una laptop para llevarla al cole y también jugaba en clases con mis amigos |
 ![Imagen Laptop](https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRWtPr7gniPFyOp5zec-t3UEtr1ZeWzWnk29h1h4F3SSGntHfcFDgy0pjGaXCb_5UYiQ1NhOdes3FmuCKeKH9EhqTJdNxM2PPJ1H_k3mKOWYdw4ObOdoK0JB-9OZ9uOntKC_LN2bjwWYg&usqp=CAc)
 | 2023  | Comencé a programar e indagar sobre los diferentes lenguajes como Python, CSS, HTML |
-![Imagen Programación]([https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRWtPr7gniPFyOp5zec-t3UEtr1ZeWzWnk29h1h4F3SSGntHfcFDgy0pjGaXCb_5UYiQ1NhOdes3FmuCKeKH9EhqTJdNxM2PPJ1H_k3mKOWYdw4ObOdoK0JB-9OZ9uOntKC_LN2bjwWYg&usqp=CAc](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQdjgRAPZidad2fzU5bVtXTMz4y0fmU-MW1A&s))
-
+![Imagen Programación](https://pandorafms.com/blog/wp-content/uploads/2019/01/lenguajes-de-programacion-featured.png)
