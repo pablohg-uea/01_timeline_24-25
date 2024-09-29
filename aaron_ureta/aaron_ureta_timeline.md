@@ -20,8 +20,8 @@
 | 2020  | Primer computador de mesa, empecé a jugar más videojuegos.|
 ![Imagen Computador](https://linarojasblog.wordpress.com/wp-content/uploads/2016/05/deimag-1.jpg)
 | 2022  | Primer laptop propia, necesite una laptop para llevarla al cole y también jugaba en clases con mis amigos |
-![Imagen Laptop]([https://www.hp.com/es-es/shop/Html/Merch/Images/c08154840_1750x1285.jpg](https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRWtPr7gniPFyOp5zec-t3UEtr1ZeWzWnk29h1h4F3SSGntHfcFDgy0pjGaXCb_5UYiQ1NhOdes3FmuCKeKH9EhqTJdNxM2PPJ1H_k3mKOWYdw4ObOdoK0JB-9OZ9uOntKC_LN2bjwWYg&usqp=CAc))
+![Imagen Laptop]([https://www.hp.com/es-es/shop/Html/Merch/Images/c08154840_1750x1285.jpg](https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRWtPr7gniPFyOp5zec-t3UEtr1ZeWzWnk29h1h4F3SSGntHfcFDgy0pjGaXCb_5UYiQ1NhOdes3FmuCKeKH9EhqTJdNxM2PPJ1H_k3mKOWYdw4ObOdoK0JB-9OZ9uOntKC_LN2bjwWYg&usqp=CAc)
 | 2023  | Comencé a programar e indagar sobre los diferentes lenguajes como Python, CSS, HTML |
-![Imagen Programación]([https://static.swhosting.com/blog/wp-content/uploads/2024/04/12463_destacada_es.webp](https://haycanal.com/uploads/noticias/14949/Cualenguaje_programacion.jpg))
+![Imagen Programación]([https://static.swhosting.com/blog/wp-content/uploads/2024/04/12463_destacada_es.webp](https://haycanal.com/uploads/noticias/14949/Cualenguaje_programacion.jpg)
 
 
