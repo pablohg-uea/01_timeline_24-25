@@ -74,7 +74,7 @@ Durante mi **tractoria cibernética** he obtenido y actualizado varios de los **
 
 Nací el 28 de Septiembre de 2006 y mi primer contacto con la tecnologia fue con 4 añitos, cuando mi madre que me dejaba su movil para poder dar de comer a una Oveja virtual, algo del estilo de un tamagochi, no puedo dar el modelo exacto ya que acabaron robandole el movil, y me disguste mucho.
 
-![ImagenOveja](/LineaTemporal-IGPS/Recursos/Imagenes/Sheep.png)
+![ImagenOveja](/Recursos/Imagenes/Sheep.png)
 
 ***
 
@@ -94,7 +94,7 @@ Fue un ordenador fue un portatil HP, que me dio mi madre tras ella mejorar su or
 
 El primer servidor que tuve, y sigo teniendo fue la Raspberry Pi 5 8GB, aproveche que ya que era nueva y que la comunidad de Raspberry es activa para meterme en el mundillo de los servidores. La uso actualmente con Jellyfin y Nextcloud y un HDD de 4TB conectado al mini servidor.
 
-![Raspberry_PI_5](/LineaTemporal-IGPS/Recursos/Imagenes/Raspberry-Pi.jpeg)
+![Raspberry_PI_5](/Recursos/Imagenes/Raspberry-Pi.jpeg)
 
 ![Separador][1]
 
@@ -122,7 +122,7 @@ Me he vuelto aficionado de los videojuegos desde que mi primo me metio a ellos. 
 
 Mi primer videojuego fue en la XboxONE de mi primo que jugamos al Call of Duty Ghosts, solo me gustaba el juego porque si te hacias 3 kills seguidas podias llamar a un perro, rara vez lo conseguia. Aparte de eso no he sido mucho de shooters por lo tanto los he ido dejando de lado.
 
-![COD_Ghosts](/LineaTemporal-IGPS/Recursos/Imagenes/COD_Ghosts.png)
+![COD_Ghosts](/Recursos/Imagenes/COD_Ghosts.png)
 
 ***
 
@@ -142,7 +142,7 @@ El primer reccuerdo de un ordenador fue en casa de mi primo cuando el se descarg
 
 Me compre los Oculus Quest 1 tras ver muchos video de [BMFVR](https://www.youtube.com/channel/UCBJ1rwS7ARoCWLdab0wLD-Q), [Virtual Reality Oasis](https://www.youtube.com/@VirtualRealityOasis) y [ThrillSeeker](https://www.youtube.com/@ThrillSeekerVR) y tambien tuvo que ver el estar 6 meses encerrados durante la pandemia. Me encanto pero el problema es que muchos de mis amigos no tienen las gafas y no puedo jugar con ellos.
 
-![Quest_1](/LineaTemporal-IGPS/Recursos/Imagenes/Oculus_1.png)
+![Quest_1](/Recursos/Imagenes/Oculus_1.png)
 
 Y 5 años despues, tras la salida de las Apple Vision Pro y las Meta Quest 3 decido comprar las Quest 3 ya que ofrecen casi lo mismo que las vision por 6-7 veces menos el precio.
 
@@ -255,4 +255,4 @@ Fue complicado al principio pero gracias al siguiente [tutorial](https://www.you
 
 Y para terminar, un poco de ciberseguirdad que para resumirlo, [aqui](/LineaTemporal-IGPS/Recursos/PDF/CIberseguridad.pdf) hay un documento que hice hace un tiempo en el cual expongo todo lo que se sobre el tema.
 
-[1]: /LineaTemporal-IGPS/Recursos/Imagenes/Separador.png
+[1]: /Recursos/Imagenes/Separador.png
