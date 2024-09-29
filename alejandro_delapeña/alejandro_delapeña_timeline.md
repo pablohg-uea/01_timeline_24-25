@@ -45,7 +45,7 @@
 </p>
 
 <p align="center">
-  <img  src="../alejandro_delapeña/img/POCOf4.jpg" width="400" height="300"> 
+  <img  src="../alejandro_delapeña/img/POCOF4.jpg" width="400" height="300"> 
 </p>
 
 - A los 17 años decidí mejorar los componentes de mi ordenador con una **GPU *Radeon RX 6700 XT***, **CPU *Ryzen 7 5800X3D***, **RAM *32 GB.***
