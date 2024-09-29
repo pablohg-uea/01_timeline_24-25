@@ -17,6 +17,8 @@ A medida que el tiempo paraba me vi obligado a regalar esta consola a mi hermana
 
 ## <sub>[Diciembre 2011 - Navidad]</sub>
 En diciembre de 2011 me habian regalado un Nintengo 3DS XL, estaba muy feliz, ahi tube tres juegos que jugaba todo el tiempo; *Mario Kart 7*, *New Super Mario Bros. 2* y *Super Mario 3d Land*. Recuerdo que una vez en la que mi consola empezo a tener problemas con la camara, intente repararlo. Yo, sin saber ingles, ni lo que estaba haciendo, intente reiniciar la consola, pero en realidad la estaba reseteando. Cuando vi la pantalla de carga y que mostraba un proceso, pense que las cosas estarian bien. Pero cuando el proceso habia terminado, prendi la consola para darme cuenta que los juegos pre-instalados habian desaparecido. Algunos eran minijuegos aburridos, pero uno de los juegos era *Mario Kart*, eso me destrozo el alma. <sub>...desde entonces aprendi a siempre estar seguro de lo que hago cuando me meto a configuracion de dispositivo</sub>
+![3ds](https://cdn.images.express.co.uk/img/dynamic/143/590x/705054_1.jpg)
+
 
 ## <sub>[Desde 2012]</sub>
 Desde 2012 he tenido un gran interes por desarmar productos electronicos, desde autos a control hasta un lector de discos en mis primeros años. A travez del tienmpo la teconologia que yo desarmaba aumentaba en complegidad; telefonos, muchos-muchisimos auriculares, proyectores, consolas de juegos y hasta una laptop. Algunos de estos los desarmaba con la intencion de ver que tenian adentro o repararlos, en esos casos todo lo hacia con ciudado y lo lograba armar a funcionalidad de vuelta. 
@@ -47,7 +49,7 @@ Mi primera experiencia metiendome dentro del codigo de un juego emulado fue cuan
 El juego decia que no podia detectar la memoria, y por eso no podia guardar la partida. Por un inicio solo utilizaba el sistema de guardado del emulador, pero en el final del juego, se guarda obligatoriamente el progreso para mostrar los creditos, y como no reconocia el guardado se reiniciaba todo.
 
 Tuve que entrar a la memoria interna del juego y buscar el valor hexadecimal en la compilacion del programa que diria si esta detectada la bateria o no. Por lo menos tuve un tutorial para saber lo que tenia que hacer, aun asi no sabia lo que estaba haciendo.
-[imagen]
+![pokemon](https://github.com/GuillermoUNEA/01_timeline_24-25/blob/main/guillermo_chavez/temppokemonscreen.png)
 
 
 # Programacion
