@@ -23,6 +23,7 @@ Mi primer dispositivo táctil fue una tablet de la marca Samsung, el modélo era
 
 # Peak de mi etapa en la tecnología (2014-2020)
 Aparte del **pc de sobremesa**<sup> 1</sup> que había por casa, un día me compraron un portátil bastante potente de la marca lenovo, con un i5, lo usaba sin ratón, fue aquí donde descubrí que los videojuegos que había visto a través de una pantalla no se me daban tan mal, y además con el Touchpad. 
+
 ![alt text](image-10.png)
 
 Comencé con el _minecraft_, y como estaba a mi alcance, sin tener ni idea de lo que hacía creé varios _paquetes de texturas_, _personalicé muchas skins_, y **creé un pequeño mod** con cosas que vi por internet, a día de hoy creo que fue mi primera interacción con el **java**. 
