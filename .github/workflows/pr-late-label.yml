@@ -1,0 +1,49 @@
+name: Etiquetar PR "Fuera de plazo"
+
+on:
+  pull_request:
+    types:
+      - opened
+
+jobs:
+  check_time_and_label:
+    runs-on: ubuntu-latest
+    steps:
+      # 1. Obtiene la fecha y hora actual del evento de Pull Request
+      - name: Obtener fecha y hora de creación del PR
+        id: pr_time
+        run: |
+          echo "PR created at: ${{ github.event.pull_request.created_at }}"
+          pr_time="${{ github.event.pull_request.created_at }}"
+          echo "::set-output name=pr_time::$pr_time"
+
+      # 2. Define la hora límite (por ejemplo, 2023-09-30 14:00:00 UTC)
+      - name: Definir la hora límite
+        id: limit_time
+        run: |
+          limit_time="2024-09-29T14:11:59Z"  # Ajusta a la hora que desees
+          echo "::set-output name=limit_time::$limit_time"
+
+      # 3. Compara si el PR fue creado después de la hora límite
+      - name: Verificar si el PR está fuera de plazo
+        id: is_late
+        run: |
+          pr_time="${{ steps.pr_time.outputs.pr_time }}"
+          limit_time="${{ steps.limit_time.outputs.limit_time }}"
+
+          if [[ "$pr_time" > "$limit_time" ]]; then
+            echo "El PR está fuera de plazo."
+            echo "::set-output name=is_late::true"
+          else
+            echo "El PR está dentro del plazo."
+            echo "::set-output name=is_late::false"
+          fi
+
+      # 4. Si está fuera de plazo, asigna la etiqueta
+      - name: Asignar etiqueta "Fuera de plazo" si aplica
+        if: steps.is_late.outputs.is_late == 'true'
+        run: |
+          curl -X POST -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" \
+          -H "Accept: application/vnd.github.v3+json" \
+          https://api.github.com/repos/${{ github.repository }}/issues/${{ github.event.pull_request.number }}/labels \
+          -d '{"labels":["fuera de plazo"]}'
