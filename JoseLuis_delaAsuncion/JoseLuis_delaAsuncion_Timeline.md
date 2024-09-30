@@ -253,6 +253,6 @@ Fue complicado al principio pero gracias al siguiente [tutorial](https://www.you
 
 ## 6.0 || || Ciberseguridad
 
-Y para terminar, un poco de ciberseguirdad que para resumirlo, [aqui](/LineaTemporal-IGPS/Recursos/PDF/CIberseguridad.pdf) hay un documento que hice hace un tiempo en el cual expongo todo lo que se sobre el tema.
+Y para terminar, un poco de ciberseguirdad que para resumirlo, [aqui](/Recursos/PDF/CIberseguridad.pdf) hay un documento que hice hace un tiempo en el cual expongo todo lo que se sobre el tema.
 
 [1]: /Recursos/Imagenes/Separador.png
